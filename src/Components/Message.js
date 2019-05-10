@@ -6,7 +6,7 @@ class Message extends Component
     {
         super()
         this.state={
-            message:'Welcome visitor'
+            message:'Welcome Harinath'
         }
     }
     changeMessage()
